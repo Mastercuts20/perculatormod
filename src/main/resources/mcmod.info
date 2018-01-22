@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mtm",
+  "name": "Mastercuts20's Tutorial Mod",
+  "description": "Mastercuts20's Tutorial Mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Mastercuts20"],
+  "credits": "The Forge Team",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

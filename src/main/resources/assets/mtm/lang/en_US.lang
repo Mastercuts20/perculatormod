@@ -1,0 +1,7 @@
+item.cheese.name=Cheese
+item.berrypie.name=BerryPie
+
+tile.cheese.name= Cheese Block
+tile.kettle.name= Kettle
+
+itemGroup.Fooditems/blocks=Food Items/Blocks
